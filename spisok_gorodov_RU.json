@@ -2,235 +2,235 @@
     {
         "key": "zbxp.bryansk.ertelecom.ru",
         "name": "Брянск",
-        "latitude": "53.310661",
-        "longitude": "34.300369"
+        "latitude": 53.310661,
+        "longitude": 34.300369
     },
     {
         "key": "zbxp.vladivostok.ertelecom.ru",
         "name": "Владивосток",
-        "latitude": "43.130692",
-        "longitude": "131.923828"
+        "latitude": 43.130692,
+        "longitude": 131.923828
     },
     {
         "key": "zbxp.voronezh.ertelecom.ru",
         "name": "Воронеж",
-        "latitude": "51.660019",
-        "longitude": "39.197411"
+        "latitude": 51.660019,
+        "longitude": 39.197411
     },
     {
         "key": "zbxp.volgograd.ertelecom.ru",
         "name": "Волгоград",
-        "latitude": "48.718079",
-        "longitude": "44.504639"
+        "latitude": 48.718079,
+        "longitude": 44.504639
     },
     {
         "key": "zbxp.rostov.ertelecom.ru",
         "name": "Ростов-на-Дону",
-        "latitude": "47.233189",
-        "longitude": "39.715"
+        "latitude": 47.233189,
+        "longitude": 39.715
     },
     {
         "key": "zbxp.ryazan.ertelecom.ru",
         "name": "Рязань",
-        "latitude": "54.62466",
-        "longitude": "39.738571"
+        "latitude": 54.62466,
+        "longitude": 39.738571
     },
     {
         "key": "zbxp.kzn.ertelecom.ru",
         "name": "Казань",
-        "latitude": "55.796539",
-        "longitude": "49.1082"
+        "latitude": 55.796539,
+        "longitude": 49.1082
     },
     {
         "key": "zbxp.krd.ertelecom.ru",
         "name": "Краснодар",
-        "latitude": "45.042149",
-        "longitude": "38.98064"
+        "latitude": 45.042149,
+        "longitude": 38.98064
     },
     {
         "key": "zbxp.krsk.ertelecom.ru",
         "name": "Красноярск",
-        "latitude": "56.001251",
-        "longitude": "92.88559"
+        "latitude": 56.001251,
+        "longitude": 92.88559
     },
     {
         "key": "zbxp.irkutsk.ertelecom.ru",
         "name": "Иркутск",
-        "latitude": "52.275261",
-        "longitude": "104.30864"
+        "latitude": 52.275261,
+        "longitude": 104.30864
     },
     {
         "key": "zbxp.kirov.ertelecom.ru",
         "name": "Киров",
-        "latitude": "58.596081",
-        "longitude": "49.662659"
+        "latitude": 58.596081,
+        "longitude": 49.662659
     },
     {
         "key": "zbxp.lipetsk.ertelecom.ru",
         "name": "Липецк",
-        "latitude": "52.605949",
-        "longitude": "39.587681"
+        "latitude": 52.605949,
+        "longitude": 39.587681
     },
     {
         "key": "zbxp.yola.ertelecom.ru",
         "name": "Йошкар-Ола",
-        "latitude": "56.637501",
-        "longitude": "47.891499"
+        "latitude": 56.637501,
+        "longitude": 47.891499
     },
     {
         "key": "zbxp.kurgan.ertelecom.ru",
         "name": "Курган",
-        "latitude": "55.45369",
-        "longitude": "65.342323"
+        "latitude": 55.45369,
+        "longitude": 65.342323
     },
     {
         "key": "zbxp.kursk.ertelecom.ru",
         "name": "Курск",
-        "latitude": "51.740261",
-        "longitude": "36.184879"
+        "latitude": 51.740261,
+        "longitude": 36.184879
     },
     {
         "key": "zbxp.izhevsk.ertelecom.ru",
         "name": "Ижевск",
-        "latitude": "56.842609",
-        "longitude": "53.224449"
+        "latitude": 56.842609,
+        "longitude": 53.224449
     },
     {
         "key": "zbxp.mgn.ertelecom.ru",
         "name": "Магнитогорск",
-        "latitude": "53.45932",
-        "longitude": "59.082581"
+        "latitude": 53.45932,
+        "longitude": 59.082581
     },
     {
         "key": "zbxp.chelny.ertelecom.ru",
         "name": "Набережные Челны",
-        "latitude": "55.73",
-        "longitude": "52.43322"
+        "latitude": 55.73,
+        "longitude": 52.43322
     },
     {
         "key": "zbxp.oren.ertelecom.ru",
         "name": "Оренбург",
-        "latitude": "51.768242",
-        "longitude": "55.10371"
+        "latitude": 51.768242,
+        "longitude": 55.10371
     },
     {
         "key": "zbxp.nn.ertelecom.ru",
         "name": "Нижний Новгород",
-        "latitude": "56.329918",
-        "longitude": "44.009193"
+        "latitude": 56.329918,
+        "longitude": 44.009193
     },
     {
         "key": "zbxp.omsk.ertelecom.ru",
         "name": "Омск",
-        "latitude": "54.970901",
-        "longitude": "73.393753"
+        "latitude": 54.970901,
+        "longitude": 73.393753
     },
     {
         "key": "zbxp.msk.ertelecom.ru",
         "name": "Москва",
-        "latitude": "55.755787",
-        "longitude": "37.617634"
+        "latitude": 55.755787,
+        "longitude": 37.617634
     },
     {
         "key": "zbxp.perm.ertelecom.ru",
         "name": "Пермь",
-        "latitude": "57.997169",
-        "longitude": "56.235279"
+        "latitude": 57.997169,
+        "longitude": 56.235279
     },
     {
         "key": "zbxp.penza.ertelecom.ru",
         "name": "Пенза",
-        "latitude": "53.200932",
-        "longitude": "45.010422"
+        "latitude": 53.200932,
+        "longitude": 45.010422
     },
     {
         "key": "zbxp.saratov.ertelecom.ru",
         "name": "Саратов",
-        "latitude": "51.533268",
-        "longitude": "46.03455"
+        "latitude": 51.533268,
+        "longitude": 46.03455
     },
     {
         "key": "zbxp.samara.ertelecom.ru",
         "name": "Самара",
-        "latitude": "53.20216",
-        "longitude": "50.159618"
+        "latitude": 53.20216,
+        "longitude": 50.159618
     },
     {
         "key": "zbxp.spb.ertelecom.ru",
         "name": "Санкт-Петербург",
-        "latitude": "59.939037",
-        "longitude": "30.315784"
+        "latitude": 59.939037,
+        "longitude": 30.315784
     },
     {
         "key": "zbxp.khb.ertelecom.ru",
         "name": "Хабаровск",
-        "latitude": "48.476719",
-        "longitude": "135.09407"
+        "latitude": 48.476719,
+        "longitude": 135.09407
     },
     {
         "key": "zbxp.tver.ertelecom.ru",
         "name": "Тверь",
-        "latitude": "56.857929",
-        "longitude": "35.923828"
+        "latitude": 56.857929,
+        "longitude": 35.923828
     },
     {
         "key": "zbxp.ulu.ertelecom.ru",
         "name": "Улан-Удэ",
-        "latitude": "51.840839",
-        "longitude": "107.608093"
+        "latitude": 51.840839,
+        "longitude": 107.608093
     },
     {
         "key": "zbxp.ulsk.ertelecom.ru",
         "name": "Ульяновск",
-        "latitude": "54.32148",
-        "longitude": "48.385651"
+        "latitude": 54.32148,
+        "longitude": 48.385651
     },
     {
         "key": "zbxp.tomsk.ertelecom.ru",
         "name": "Томск",
-        "latitude": "56.463989",
-        "longitude": "84.962547"
+        "latitude": 56.463989,
+        "longitude": 84.962547
     },
     {
         "key": "zbxp.ufa.ertelecom.ru",
         "name": "Уфа",
-        "latitude": "54.7355",
-        "longitude": "55.991982"
+        "latitude": 54.7355,
+        "longitude": 55.991982
     },
     {
         "key": "zbxp.tula.ertelecom.ru",
         "name": "Тула",
-        "latitude": "54.196678",
-        "longitude": "37.617828"
+        "latitude": 54.196678,
+        "longitude": 37.617828
     },
     {
         "key": "zbxp.tmn.ertelecom.ru",
         "name": "Тюмень",
-        "latitude": "57.154949",
-        "longitude": "65.51564"
+        "latitude": 57.154949,
+        "longitude": 65.51564
     },
     {
         "key": "zbxp.ekat.ertelecom.ru",
         "name": "Екатеринбург",
-        "latitude": "56.837814",
-        "longitude": "60.596844"
+        "latitude": 56.837814,
+        "longitude": 60.596844
     },
     {
         "key": "zbxp.cheb.ertelecom.ru",
         "name": "Чебоксары",
-        "latitude": "56.137451",
-        "longitude": "47.24403"
+        "latitude": 56.137451,
+        "longitude": 47.24403
     },
     {
         "key": "zbxp.chel.ertelecom.ru",
         "name": "Челябинск",
-        "latitude": "55.159889",
-        "longitude": "61.40258"
+        "latitude": 55.159889,
+        "longitude": 61.40258
     },
     {
         "key": "zbxp.yar.ertelecom.ru",
         "name": "Ярославль",
-        "latitude": "57.6301",
-        "longitude": "39.865631"
+        "latitude": 57.6301,
+        "longitude": 39.865631
     }
 ]
