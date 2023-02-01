@@ -1,0 +1,236 @@
+﻿[
+    {
+        "key": "bryansk",
+        "name": "Брянск",
+        "latitude": 53.310661,
+        "longitude": 34.300369
+    },
+    {
+        "key": "vladivostok",
+        "name": "Владивосток",
+        "latitude": 43.130692,
+        "longitude": 131.923828
+    },
+    {
+        "key": "voronezh",
+        "name": "Воронеж",
+        "latitude": 51.660019,
+        "longitude": 39.197411
+    },
+    {
+        "key": "volgograd",
+        "name": "Волгоград",
+        "latitude": 48.718079,
+        "longitude": 44.504639
+    },
+    {
+        "key": "rostov",
+        "name": "Ростов-на-Дону",
+        "latitude": 47.233189,
+        "longitude": 39.715
+    },
+    {
+        "key": "ryazan",
+        "name": "Рязань",
+        "latitude": 54.62466,
+        "longitude": 39.738571
+    },
+    {
+        "key": "kzn",
+        "name": "Казань",
+        "latitude": 55.796539,
+        "longitude": 49.1082
+    },
+    {
+        "key": "krd",
+        "name": "Краснодар",
+        "latitude": 45.042149,
+        "longitude": 38.98064
+    },
+    {
+        "key": "krsk",
+        "name": "Красноярск",
+        "latitude": 56.001251,
+        "longitude": 92.88559
+    },
+    {
+        "key": "irkutsk",
+        "name": "Иркутск",
+        "latitude": 52.275261,
+        "longitude": 104.30864
+    },
+    {
+        "key": "kirov",
+        "name": "Киров",
+        "latitude": 58.596081,
+        "longitude": 49.662659
+    },
+    {
+        "key": "lipetsk",
+        "name": "Липецк",
+        "latitude": 52.605949,
+        "longitude": 39.587681
+    },
+    {
+        "key": "yola",
+        "name": "Йошкар-Ола",
+        "latitude": 56.637501,
+        "longitude": 47.891499
+    },
+    {
+        "key": "kurgan",
+        "name": "Курган",
+        "latitude": 55.45369,
+        "longitude": 65.342323
+    },
+    {
+        "key": "kursk",
+        "name": "Курск",
+        "latitude": 51.740261,
+        "longitude": 36.184879
+    },
+    {
+        "key": "izhevsk",
+        "name": "Ижевск",
+        "latitude": 56.842609,
+        "longitude": 53.224449
+    },
+    {
+        "key": "mgn",
+        "name": "Магнитогорск",
+        "latitude": 53.45932,
+        "longitude": 59.082581
+    },
+    {
+        "key": "chelny",
+        "name": "Набережные Челны",
+        "latitude": 55.73,
+        "longitude": 52.43322
+    },
+    {
+        "key": "oren",
+        "name": "Оренбург",
+        "latitude": 51.768242,
+        "longitude": 55.10371
+    },
+    {
+        "key": "nn",
+        "name": "Нижний Новгород",
+        "latitude": 56.329918,
+        "longitude": 44.009193
+    },
+    {
+        "key": "omsk",
+        "name": "Омск",
+        "latitude": 54.970901,
+        "longitude": 73.393753
+    },
+    {
+        "key": "msk",
+        "name": "Москва",
+        "latitude": 55.755787,
+        "longitude": 37.617634
+    },
+    {
+        "key": "perm",
+        "name": "Пермь",
+        "latitude": 57.997169,
+        "longitude": 56.235279
+    },
+    {
+        "key": "penza",
+        "name": "Пенза",
+        "latitude": 53.200932,
+        "longitude": 45.010422
+    },
+    {
+        "key": "saratov",
+        "name": "Саратов",
+        "latitude": 51.533268,
+        "longitude": 46.03455
+    },
+    {
+        "key": "samara",
+        "name": "Самара",
+        "latitude": 53.20216,
+        "longitude": 50.159618
+    },
+    {
+        "key": "spb",
+        "name": "Санкт-Петербург",
+        "latitude": 59.939037,
+        "longitude": 30.315784
+    },
+    {
+        "key": "khb",
+        "name": "Хабаровск",
+        "latitude": 48.476719,
+        "longitude": 135.09407
+    },
+    {
+        "key": "tver",
+        "name": "Тверь",
+        "latitude": 56.857929,
+        "longitude": 35.923828
+    },
+    {
+        "key": "ulu",
+        "name": "Улан-Удэ",
+        "latitude": 51.840839,
+        "longitude": 107.608093
+    },
+    {
+        "key": "ulsk",
+        "name": "Ульяновск",
+        "latitude": 54.32148,
+        "longitude": 48.385651
+    },
+    {
+        "key": "tomsk",
+        "name": "Томск",
+        "latitude": 56.463989,
+        "longitude": 84.962547
+    },
+    {
+        "key": "ufa",
+        "name": "Уфа",
+        "latitude": 54.7355,
+        "longitude": 55.991982
+    },
+    {
+        "key": "tula",
+        "name": "Тула",
+        "latitude": 54.196678,
+        "longitude": 37.617828
+    },
+    {
+        "key": "tmn",
+        "name": "Тюмень",
+        "latitude": 57.154949,
+        "longitude": 65.51564
+    },
+    {
+        "key": "ekat",
+        "name": "Екатеринбург",
+        "latitude": 56.837814,
+        "longitude": 60.596844
+    },
+    {
+        "key": "cheb",
+        "name": "Чебоксары",
+        "latitude": 56.137451,
+        "longitude": 47.24403
+    },
+    {
+        "key": "chel",
+        "name": "Челябинск",
+        "latitude": 55.159889,
+        "longitude": 61.40258
+    },
+    {
+        "key": "yar",
+        "name": "Ярославль",
+        "latitude": 57.6301,
+        "longitude": 39.865631
+    }
+]
