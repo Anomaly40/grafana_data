@@ -1,0 +1,242 @@
+﻿[
+    {
+        "key": "zbxp.bryansk.ertelecom.ru",
+        "latitude": "53.310661",
+        "longitude": "34.300369",
+        "name": "Брянск"
+    },
+    {
+        "key": "zbxp.vladivostok.ertelecom.ru",
+        "latitude": "43.130692",
+        "longitude": "131.923828",
+        "name": "Владивосток"
+    },
+    {
+        "key": "zbxp.voronezh.ertelecom.ru",
+        "latitude": "51.660019",
+        "longitude": "39.197411",
+        "name": "Воронеж"
+    },
+    {
+        "key": "zbxp.volgograd.ertelecom.ru",
+        "latitude": "48.718079",
+        "longitude": "44.504639",
+        "name": "Волгоград"
+    },
+    {
+        "key": "zbxp.rostov.ertelecom.ru",
+        "latitude": "47.233189",
+        "longitude": "39.715",
+        "name": "Ростов-на-Дону"
+    },
+    {
+        "key": "zbxp.ryazan.ertelecom.ru",
+        "latitude": "54.62466",
+        "longitude": "39.738571",
+        "name": "Рязань"
+    },
+    {
+        "key": "zbxp.kzn.ertelecom.ru",
+        "latitude": "55.796539",
+        "longitude": "49.1082",
+        "name": "Казань"
+    },
+    {
+        "key": "zbxp.krd.ertelecom.ru",
+        "latitude": "45.042149",
+        "longitude": "38.98064",
+        "name": "Краснодар"
+    },
+    {
+        "key": "zbxp.krsk.ertelecom.ru",
+        "latitude": "56.001251",
+        "longitude": "92.88559",
+        "name": "Красноярск"
+    },
+    {
+        "key": "zbxp.irkutsk.ertelecom.ru",
+        "latitude": "52.275261",
+        "longitude": "104.30864",
+        "name": "Иркутск"
+    },
+    {
+        "key": "zbxp.kirov.ertelecom.ru",
+        "latitude": "58.596081",
+        "longitude": "49.662659",
+        "name": "Киров"
+    },
+    {
+        "key": "zbxp.lipetsk.ertelecom.ru",
+        "latitude": "52.605949",
+        "longitude": "39.587681",
+        "name": "Липецк"
+    },
+    {
+        "key": "zbxp.yola.ertelecom.ru",
+        "latitude": "56.637501",
+        "longitude": "47.891499",
+        "name": "Йошкар-Ола"
+    },
+    {
+        "key": "zbxp.kurgan.ertelecom.ru",
+        "latitude": "55.45369",
+        "longitude": "65.342323",
+        "name": "Курган"
+    },
+    {
+        "key": "zbxp.kursk.ertelecom.ru",
+        "latitude": "51.740261",
+        "longitude": "36.184879",
+        "name": "Курск"
+    },
+    {
+        "key": "zbxp.izhevsk.ertelecom.ru",
+        "latitude": "56.842609",
+        "longitude": "53.224449",
+        "name": "Ижевск"
+    },
+    {
+        "key": "zbxp.mgn.ertelecom.ru",
+        "latitude": "53.45932",
+        "longitude": "59.082581",
+        "name": "Магнитогорск"
+    },
+    {
+        "key": "zbxp.chelny.ertelecom.ru",
+        "latitude": "55.73",
+        "longitude": "52.43322",
+        "name": "Набережные Челны"
+    },
+    {
+        "key": "zbxp.oren.ertelecom.ru",
+        "latitude": "51.768242",
+        "longitude": "55.10371",
+        "name": "Оренбург"
+    },
+    {
+        "key": "zbxp.nn.ertelecom.ru",
+        "latitude": "56.329918",
+        "longitude": "44.009193",
+        "name": "Нижний Новгород"
+    },
+    {
+        "key": "zbxp.omsk.ertelecom.ru",
+        "latitude": "54.970901",
+        "longitude": "73.393753",
+        "name": "Омск"
+    },
+    {
+        "key": "zbxp.msk.ertelecom.ru",
+        "latitude": "55.755787",
+        "longitude": "37.617634",
+        "name": "Москва"
+    },
+    {
+        "key": "zbxp.perm.ertelecom.ru",
+        "latitude": "57.997169",
+        "longitude": "56.235279",
+        "name": "Пермь"
+    },
+    {
+        "key": "zbxp.enforta.ertelecom.ru",
+        "latitude": "57.997200",
+        "longitude": "56.235300",
+        "name": "Энфорта"
+    },
+    {
+        "key": "zbxp.penza.ertelecom.ru",
+        "latitude": "53.200932",
+        "longitude": "45.010422",
+        "name": "Пенза"
+    },
+    {
+        "key": "zbxp.saratov.ertelecom.ru",
+        "latitude": "51.533268",
+        "longitude": "46.03455",
+        "name": "Саратов"
+    },
+    {
+        "key": "zbxp.samara.ertelecom.ru",
+        "latitude": "53.20216",
+        "longitude": "50.159618",
+        "name": "Самара"
+    },
+    {
+        "key": "zbxp.spb.ertelecom.ru",
+        "latitude": "59.939037",
+        "longitude": "30.315784",
+        "name": "Санкт-Петербург"
+    },
+    {
+        "key": "zbxp.khb.ertelecom.ru",
+        "latitude": "48.476719",
+        "longitude": "135.09407",
+        "name": "Хабаровск"
+    },
+    {
+        "key": "zbxp.tver.ertelecom.ru",
+        "latitude": "56.857929",
+        "longitude": "35.923828",
+        "name": "Тверь"
+    },
+    {
+        "key": "zbxp.ulu.ertelecom.ru",
+        "latitude": "51.840839",
+        "longitude": "107.608093",
+        "name": "Улан-Удэ"
+    },
+    {
+        "key": "zbxp.ulsk.ertelecom.ru",
+        "latitude": "54.32148",
+        "longitude": "48.385651",
+        "name": "Ульяновск"
+    },
+    {
+        "key": "zbxp.tomsk.ertelecom.ru",
+        "latitude": "56.463989",
+        "longitude": "84.962547",
+        "name": "Томск"
+    },
+    {
+        "key": "zbxp.ufa.ertelecom.ru",
+        "latitude": "54.7355",
+        "longitude": "55.991982",
+        "name": "Уфа"
+    },
+    {
+        "key": "zbxp.tula.ertelecom.ru",
+        "latitude": "54.196678",
+        "longitude": "37.617828",
+        "name": "Тула"
+    },
+    {
+        "key": "zbxp.tmn.ertelecom.ru",
+        "latitude": "57.154949",
+        "longitude": "65.51564",
+        "name": "Тюмень"
+    },
+    {
+        "key": "zbxp.ekat.ertelecom.ru",
+        "latitude": "56.837814",
+        "longitude": "60.596844",
+        "name": "Екатеринбург"
+    },
+    {
+        "key": "zbxp.cheb.ertelecom.ru",
+        "latitude": "56.137451",
+        "longitude": "47.24403",
+        "name": "Чебоксары"
+    },
+    {
+        "key": "zbxp.chel.ertelecom.ru",
+        "latitude": "55.159889",
+        "longitude": "61.40258",
+        "name": "Челябинск"
+    },
+    {
+        "key": "zbxp.yar.ertelecom.ru",
+        "latitude": "57.6301",
+        "longitude": "39.865631",
+        "name": "Ярославль"
+    }
+]
